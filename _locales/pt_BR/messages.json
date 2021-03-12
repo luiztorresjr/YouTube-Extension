@@ -3,19 +3,19 @@
         "message": "Sobre"
     },
     "accept": {
-        "message": "Accept"
+        "message": "Aceitar"
     },
     "activate": {
-        "message": "Activate"
+        "message": "Ativar"
     },
     "activateCaptions": {
         "message": "Ativar legendas"
     },
     "activated": {
-        "message": "Activated"
+        "message": "Ativado"
     },
     "activatedFeatures": {
-        "message": "Activated features"
+        "message": "Funções ativadas"
     },
     "activateFullscreen": {
         "message": "Ativar tela cheia"
@@ -30,7 +30,7 @@
         "message": "Anúncios"
     },
     "all": {
-        "message": "All"
+        "message": "Tudo"
     },
     "allow": {
         "message": "Permitir"
@@ -267,7 +267,7 @@
         "message": "Extensão"
     },
     "file": {
-        "message": "File"
+        "message": "Arquivo"
     },
     "filters": {
         "message": "Filtros"
@@ -279,7 +279,7 @@
         "message": "Flash"
     },
     "font": {
-        "message": "Font"
+        "message": "Fonte"
     },
     "footer": {
         "message": "Rodapé"
@@ -453,13 +453,13 @@
         "message": "Normalização de volume"
     },
     "markWatchedVideos": {
-        "message": "Mark watched videos"
+        "message": "Marcar vídeo como assistido"
     },
     "mixer": {
         "message": "Mixer"
     },
     "myColors": {
-        "message": "My colors"
+        "message": "Minhas cores"
     },
     "name": {
         "message": "Nome"
@@ -564,7 +564,7 @@
         "message": "Vídeo anterior"
     },
     "primaryColor": {
-        "message": "Primary color"
+        "message": "Cor primária"
     },
     "purple": {
         "message": "Roxo"
@@ -702,7 +702,7 @@
         "message": "Verde Azulado"
     },
     "textColor": {
-        "message": "Text color"
+        "message": "Cor do texto"
     },
     "themes": {
         "message": "Temas"
